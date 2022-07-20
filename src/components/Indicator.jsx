@@ -4,7 +4,7 @@ function Indicator(props) {
     return (
         <div
             style={{
-                backgroundColor: "#252628",
+                backgroundColor: "#6B6E74",
                 textAlign: "center",
                 boxShadow: "0px 10px 10px rgba(0,0,0,0.2)",
                 padding: "120px",

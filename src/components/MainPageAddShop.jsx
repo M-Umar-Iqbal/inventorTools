@@ -107,7 +107,8 @@ export default function Addshop() {
           >
             <h1 style={{ color: "#252628", display: "inline" }}>
               Create your
-              <p style={{ color: "#A0D2EB", display: "inline", WebkitTextStroke: "2px #252628" }}> Store</p>
+              <p style={{ color: "#484A4E", display: "inline", }}> Store</p>
+              {/* WebkitTextStroke: "2px #252628"  */}
             </h1>
           </div>
 
@@ -160,7 +161,7 @@ export default function Addshop() {
                 {/* Button to Add Category*/}
                 <div style={{ height: "100%" }}>
                   <Button
-                    style={{ margin: "15px", backgroundColor: "#252628" }}
+                    style={{ margin: "15px", backgroundColor: "#484A4E" }}
                     variant="contained"
                     color="success"
                     size="large"
@@ -206,7 +207,7 @@ export default function Addshop() {
                 padding: "15px",
                 fontWeight: "bold",
                 fontSize: "15px",
-                backgroundColor: "#252628",
+                backgroundColor: "#484A4E",
               }}
               variant="contained"
               onClick={SetShopName}

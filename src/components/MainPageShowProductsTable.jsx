@@ -62,8 +62,8 @@ function MainPageShowProducts(props) {
                         width: "200px",
                         padding: "10px",
                         borderRadius: "15px",
-                        border: "3px solid #252628",
-                        backgroundColor: "#252628",
+                        border: "3px solid #484A4E",
+                        backgroundColor: "#484A4E",
                         color: "#7D9D9C",
                         fontWeight: "bold",
                         marginBottom: "20px",
@@ -76,7 +76,7 @@ function MainPageShowProducts(props) {
                 <TableContainer component={Paper}>
                     <Table aria-label="simple table">
                         <TableHead>
-                            <TableRow style={{ backgroundColor: "#252628" }}>
+                            <TableRow style={{ backgroundColor: "#484A4E" }}>
                                 <TableCell colSpan={3}>
                                     <p
                                         style={{
@@ -176,7 +176,7 @@ function MainPageShowProducts(props) {
                                             >
                                                 <Button
                                                     style={{
-                                                        backgroundColor: "#252628",
+                                                        backgroundColor: "#484A4E",
                                                         padding: "10px",
                                                     }}
                                                     variant="contained"

@@ -46,7 +46,6 @@ function ShopAddToHome(props) {
     "&:nth-of-type(odd)": {
       backgroundColor: "rgba(0,0,0,0.2)",
     },
-
     "&:hover": {
       backgroundColor: "rgba(0,0,0,0.1)",
     },
@@ -75,7 +74,7 @@ function ShopAddToHome(props) {
         <TableContainer component={Paper} style={{ maxHeight: "570px", overflowY: "auto", }}>
           <Table aria-label="simple table" >
             <TableHead style={{ position: "sticky", top: "0", zIndex: "1" }}>
-              <TableRow style={{ backgroundColor: "#252628" }}>
+              <TableRow style={{ backgroundColor: "#484A4E" }}>
 
                 <TableCell colSpan={3} style={{ paddingLeft: "40px" }}>
 
@@ -106,8 +105,8 @@ function ShopAddToHome(props) {
                       width: "200px",
                       padding: "10px",
                       borderRadius: "15px",
-                      border: "3px solid #E4DCCF",
-                      backgroundColor: "#252628",
+                      border: "3px solid #6B6E74",
+                      backgroundColor: "#484A4E",
                       color: "#7D9D9C",
                       fontWeight: "bold"
                     }}
@@ -182,7 +181,7 @@ function ShopAddToHome(props) {
                       >
                         <Button
                           style={{
-                            backgroundColor: "#252628",
+                            backgroundColor: "#484A4E",
                             padding: "10px",
                             borderRadius: "15px",
 

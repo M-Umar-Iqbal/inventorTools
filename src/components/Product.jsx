@@ -32,7 +32,7 @@ function Product(props) {
                     <Table>
 
                         <TableHead >
-                            <TableRow style={{ backgroundColor: "#252628", }}>
+                            <TableRow style={{ backgroundColor: "#484A4E", }}>
                                 <TableCell style={{ color: "#E4DCCF", }}>
                                     <b>Name</b>
                                 </TableCell >
