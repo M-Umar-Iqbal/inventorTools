@@ -23,7 +23,7 @@ function Navigation() {
                 <Typography style={{
                     fontSize: "20px",
                     fontWeight: "bold",
-                    color: "#FFFFFF",
+                    color: "red",
                     // cursor: "pointer",
                     // backgroundColor: "red",
 
