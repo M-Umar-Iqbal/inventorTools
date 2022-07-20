@@ -21,7 +21,7 @@ function Navigation() {
                     <StoreIcon style={{ fontSize: "30px" }} onClick={() => navigate('/')} />
                 </IconButton>
                 <Typography style={{
-                    fontSize: "20px",
+                    fontSize: "50px",
                     fontWeight: "bold",
                     color: "#FFFFFF",
                     // cursor: "pointer",
