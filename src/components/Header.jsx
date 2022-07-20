@@ -24,7 +24,7 @@ function Navigation() {
                     fontSize: "20px",
                     fontWeight: "bold",
                     color: "#FFFFFF",
-                     cursor: "pointer",
+                    //  cursor: "pointer",
                     // backgroundColor: "red",
 
 
