@@ -14,7 +14,7 @@ import { useNavigate } from 'react-router-dom';
 function Navigation() {
     const navigate = useNavigate();
     return (
-        <AppBar style={{ backgroundColor: "#484A4E", position: "sticky", top: "0", zIndex: "2" }} position="static">
+        <AppBar style={{ backgroundColor: "#red", position: "sticky", top: "0", zIndex: "2" }} position="static">
 
             <Toolbar>
                 <IconButton edge="start" color="inherit" aria-label="menu" >
